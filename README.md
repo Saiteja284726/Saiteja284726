@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**Saiteja284726/Saiteja284726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Hi, I'm Saiteja Viswanath
 
 🎓 **Computer Science Graduate (B.Tech, 2020–2024)**  
@@ -83,3 +79,4 @@ Feel free to connect or collaborate with me on open-source, startups, or excitin
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+
