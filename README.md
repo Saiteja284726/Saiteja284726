@@ -1,82 +1,93 @@
-# 👋 Hi, I'm Saiteja Viswanath
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Saiteja+Viswanath;Software+Engineer+%F0%9F%92%BB;Generative+AI+Developer+%F0%9F%A7%96%EF%B8%8F%E2%99%82%EF%B8%8F;AI+%7C+Java+%7C+Spring+Boot+%7C+React+Lover" alt="Typing SVG" />
+</p>
 
-🎓 **Computer Science Graduate (B.Tech, 2020–2024)**  
-📍 Based in Bangalore, India  
-💼 Software Engineer I @ UST Global  
-📧 viswanathsaiteja@gmail.com | 📱 +91 8660981241  
-🔗 [LinkedIn](https://www.linkedin.com/in/saiteja-viswanath-ba01a8285) • [GitHub](https://github.com/Saiteja284726)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250" alt="Coder GIF"/>
+</p>
 
----
-
-## 🚀 About Me
-
-I'm a passionate developer focused on creating impactful software using modern technologies like Generative AI, NLP, Spring Boot, and React. I love building intelligent systems that simplify workflows and deliver value through automation, insight, and scalability.
-
----
-
-## 💼 Experience
-
-### Software Engineer I | **UST Global**  
-*July 2024 – Present*
-
-- Integrated GenAI using **LangChain**, **FastAPI**, **HuggingFace**, and **Flask**
-- Built a real-time **stock market dashboard** with React.js & microservices for 1000+ users
-- Developed **code-to-business logic converter** using Agentic AI + D3.js visualization
-- Created a **Microservice Generator** using Yeoman, Kafka, and cron jobs
-- Mentored 5 junior developers, boosting team productivity by 35%
-- Designed scalable backend systems using **Spring Boot** and **FastAPI**
+<p align="center">
+  <a href="mailto:viswanathsaiteja@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saiteja-viswanath-ba01a8285">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Saiteja284726">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧠 Projects
+### 👨‍💻 About Me
 
-- **Text-to-Video Generation Platform**  
-  *Tools: Generative AI, NLP, CV*  
-  Created a platform converting text prompts into videos using AI.
-
-- **Enterprise Microservices Architecture**  
-  *Tools: Spring Boot, FastAPI, Docker*  
-  Built a scalable microservices system with robust API management.
-
-- **Multi-Agent Conversational AI System**  
-  *Tools: CrewAI, LangChain*  
-  Developed a chatbot with contextual response generation and multi-step reasoning.
-
-- **Intelligent Code Generation Assistant**  
-  *Tools: LLMs, Python*  
-  Created a tool to convert natural language prompts into Python code.
+- 🎓 B.Tech in Computer Science (2020–2024) - Presidency University, Bangalore  
+- 💼 Software Engineer I at **UST Global**  
+- 🔥 Passionate about building intelligent apps using GenAI, LangChain, NLP, and Spring Boot  
+- 🧠 Currently exploring Agentic AI, RAG pipelines, and multi-agent systems  
+- 📍 Bangalore, India
 
 ---
 
-## 🛠️ Skills
+### 🛠️ Tech Stack
 
-**Languages:** Java, Python, JavaScript, SQL  
-**Frontend:** React.js, Node.js, D3.js, EJS  
-**Backend:** Spring Boot, FastAPI, Flask, Microservices  
-**AI/ML:** LangChain, LangGraph, CrewAI, GenAI, RAG, Hugging Face  
-**Databases:** MongoDB, PostgreSQL, Vector DBs  
-**Tools:** Kafka, Yeoman, OCR, NLP  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,spring,flask,fastapi,postgres,mongodb,docker,kafka,git,vscode" />
+</p>
 
 ---
 
-## 📜 Certifications
+### 🚀 Featured Projects
 
-- Python Programming – IIT Kanpur (Dec 2022)  
-- Multi AI Agent Systems – DeepLearning.AI  
-- AI Agents in LangGraph – LangChain  
-- Data Science Professional Certificate – Netzwerk Academy (Sep 2023)
-
----
-
-## 📫 Connect With Me
-
-Feel free to connect or collaborate with me on open-source, startups, or exciting AI projects!
-
-📬 Email: [viswanathsaiteja@gmail.com](mailto:viswanathsaiteja@gmail.com)  
-🔗 GitHub: [Saiteja284726](https://github.com/Saiteja284726)  
-🔗 LinkedIn: [Saiteja Viswanath](https://www.linkedin.com/in/saiteja-viswanath-ba01a8285)
+- 🧠 **Text-to-Video Generator** – Turned text into video using GenAI, NLP & CV  
+- 🧩 **Enterprise Microservices System** – Built secure scalable APIs using Spring Boot + Docker  
+- 🤖 **Multi-Agent Conversational AI** – Created smart assistants with LangChain & CrewAI  
+- 🧬 **Code Generator AI** – Natural language → Python code using LLMs
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+### 💼 Experience
 
+**Software Engineer I – UST Global (Jul 2024 – Present)**  
+- Integrated GenAI with LangChain, HuggingFace, FastAPI  
+- Built stock dashboards, microservice generators, and visualization tools  
+- Mentored 5 juniors, boosting productivity by 35%  
+- Built scalable backends in Spring Boot & FastAPI
+
+---
+
+### 📜 Certifications
+
+- ✅ Python Programming – IIT Kanpur  
+- ✅ Multi AI Agent Systems – DeepLearning.AI  
+- ✅ LangGraph Agents – LangChain  
+- ✅ Data Science Pro – Netzwerk Academy  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saiteja284726&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saiteja284726&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiteja284726&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ Quote to Live By
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ — **Cory House**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
