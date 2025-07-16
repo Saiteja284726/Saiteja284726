@@ -1,4 +1,4 @@
-# <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Innovation%20Meets%20Implementation&descAlignY=51&descSize=20"/>
 
@@ -24,7 +24,11 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" height="250" alt="Coding GIF"/>
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
 
 ```javascript
 const saiteja = {
@@ -47,6 +51,17 @@ const saiteja = {
     motto: "Code with Purpose, Build with Passion! 🚀"
 };
 ```
+
+</td>
+<td width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="250" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -171,6 +186,8 @@ const saiteja = {
 
 </div>
 
+<div align="left">
+
 **🚀 Key Achievements:**
 - **AI Integration Expert:** Seamlessly integrated GenAI with LangChain, HuggingFace, and FastAPI
 - **Full-Stack Development:** Built responsive stock dashboards and microservice generators
@@ -183,6 +200,8 @@ const saiteja = {
 - Improved system performance by 25% with optimized backend architectures
 - Enhanced user experience with intuitive dashboard interfaces
 - Implemented robust CI/CD pipelines for seamless development workflows
+
+</div>
 
 ---
 
@@ -231,12 +250,25 @@ const saiteja = {
 
 **My Mission:** To bridge the gap between human creativity and artificial intelligence, building solutions that don't just work—they inspire.
 
-**Core Values:**
-- 🎯 **Innovation-First Mindset**
-- 🤝 **Collaborative Excellence**
-- 📈 **Continuous Learning**
-- 🔍 **Problem-Solving Focus**
-- 💡 **Creative Solutions**
+<table>
+<tr>
+<td align="center" width="20%">
+🎯<br><strong>Innovation-First<br>Mindset</strong>
+</td>
+<td align="center" width="20%">
+🤝<br><strong>Collaborative<br>Excellence</strong>
+</td>
+<td align="center" width="20%">
+📈<br><strong>Continuous<br>Learning</strong>
+</td>
+<td align="center" width="20%">
+🔍<br><strong>Problem-Solving<br>Focus</strong>
+</td>
+<td align="center" width="20%">
+💡<br><strong>Creative<br>Solutions</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
